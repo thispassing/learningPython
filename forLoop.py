@@ -1,3 +1,5 @@
+
+
 temperatures = [10, -20, -289, 100]
 
 def writer(temperatures):
@@ -10,3 +12,13 @@ def writer(temperatures):
                 file.write("Can't do it, bro." + "\n")
 
 writer(temperatures)
+
+# using range, append, and creating new .txt file
+
+squares = []
+for x in range(1,12):
+    squares.append(x**2)
+
+with open("something.txt", "w") as hehe:
+    for y in squares:
+            hehe.write(str(y) + "\n")
