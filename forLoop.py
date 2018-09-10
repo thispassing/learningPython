@@ -1,4 +1,4 @@
-
+# using with and writing .txt file
 
 temperatures = [10, -20, -289, 100]
 
