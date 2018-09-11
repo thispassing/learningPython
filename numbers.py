@@ -13,3 +13,4 @@ file = open("numbers.txt", "w")
 for y in numbers:
     file.write(str(y) + "\n")
 file.close()
+
