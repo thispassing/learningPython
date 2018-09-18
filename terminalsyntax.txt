@@ -1,0 +1,11 @@
+# re-learning basic commands in command prompt
+
+ls (list)
+pwd (folder path)
+cd .. (go back one)
+cd git (hit tab) will complete to github
+clear (to clear all lines in powershell)
+cd ~ (take u back to main directory)
+cd \ (takes u back to the root)
+mkdir swiftie (make new folder in current directory )
+New-Item -ItemType file swings.py
