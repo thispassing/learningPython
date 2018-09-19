@@ -36,3 +36,4 @@ print(f"your guess of {guess} was incorrect)
 
 ctrl + alt + (up or down arrow) will select multiple rows of text
 ctrl + shift + l will find the same highlighted w/e and let u edit all of them at the same time
+end goes to end of line
